@@ -1,6 +1,6 @@
 # 我的 `Golang` 学习笔记。
 
-## 源码目录
+## 源码目录 资料
 
 - Golang基础
     + [Hello Golang](/basic/L_hello.go)
@@ -31,12 +31,15 @@
     
 - 并发编程
 
+- 小技巧
+    
+
 - Golang日常
-    + [文件读写]()
-    + [解压缩]()
-    + [JSON处理]()
-    + [网络请求]()
-    + [配置文件读取]()
+    + [日志打印](/often/L_log.go)
+    + [文件读写](/often/L_read-write.go)
+    + [解压缩](/often/L_zip.go)
+    + [JSON处理](/often/L_json.go)
+    + [网络请求](/often/L_request.go)
 
 ## 联系
 
