@@ -20,9 +20,23 @@
     + [函数进阶](/basic/L_func_pro.go)
     
 - 方法和接口
-        
+    + [方法](/advanced/L_methods.go)
+    + [接口](/advanced/L_interface.go)
+    + [隐式接口](/advanced/L_interfaces-are-satisfied-implicitly.go)
+    + [Stringers](/advanced/L_stringers.go)
+    + [错误](/advanced/L_error.go)
+    + [数据流读取](/advanced/L_reader.go)
+    + [Http服务](/advanced/L_http.go)
+    + [图片](/advanced/L_image.go)
+    
 - 并发编程
 
+- Golang日常
+    + [文件读写]()
+    + [解压缩]()
+    + [JSON处理]()
+    + [网络请求]()
+    + [配置文件读取]()
 
 ## 联系
 
