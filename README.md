@@ -40,7 +40,12 @@
     + [解压缩](/often/L_zip.go)
     + [JSON处理](/often/L_json.go)
     + [网络请求](/often/L_request.go)
-
+    + [计算MD5](/often/L_md5.go)
+    + [Base64编解码](/often/L_base64.go)
+    + [静态文件服务](/often/L_static-server.go)
+    + [执行系统命令](/often/L_exec-cmd.go)
+    + [时间操作](/often/L_time.go)
+    
 ## 联系
 
 - Email:biezhi.me#gmail.com
