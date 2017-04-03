@@ -45,6 +45,7 @@
     + [静态文件服务](/often/L_static-server.go)
     + [执行系统命令](/often/L_exec-cmd.go)
     + [时间操作](/often/L_time.go)
+    + [随机密码生成器](/often/L_random-pwd.go)
     
 ## 联系
 
