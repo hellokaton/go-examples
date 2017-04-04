@@ -46,6 +46,7 @@
     + [执行系统命令](/often/L_exec-cmd.go)
     + [时间操作](/often/L_time.go)
     + [随机密码生成器](/often/L_random-pwd.go)
+    + [简易WebFtp程序](/often/L_static-server.go)
     
 ## 联系
 
